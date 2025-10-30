@@ -1,0 +1,115 @@
+DIABETES MELLITUS: A COMPREHENSIVE OVERVIEW
+
+Introduction
+Diabetes mellitus is a chronic metabolic disorder characterized by elevated blood glucose levels (hyperglycemia) resulting from defects in insulin secretion, insulin action, or both. It affects millions of people worldwide and is a leading cause of cardiovascular disease, blindness, kidney failure, and lower limb amputation.
+
+Types of Diabetes
+
+Type 1 Diabetes
+Type 1 diabetes, previously known as insulin-dependent diabetes mellitus (IDDM) or juvenile-onset diabetes, is an autoimmune condition where the body's immune system attacks and destroys the insulin-producing beta cells in the pancreas. This results in absolute insulin deficiency. It typically manifests in childhood or adolescence but can occur at any age. Patients with Type 1 diabetes require lifelong insulin therapy.
+
+Type 2 Diabetes
+Type 2 diabetes, formerly called non-insulin-dependent diabetes mellitus (NIDDM) or adult-onset diabetes, is characterized by insulin resistance and relative insulin deficiency. It accounts for approximately 90-95% of all diabetes cases. Risk factors include obesity, physical inactivity, family history, and advancing age. Initially, the pancreas compensates by producing more insulin, but over time, it cannot maintain adequate insulin production.
+
+Gestational Diabetes
+Gestational diabetes mellitus (GDM) is glucose intolerance that is first recognized during pregnancy. It affects approximately 2-10% of pregnancies and usually resolves after delivery. However, women with GDM have an increased risk of developing Type 2 diabetes later in life.
+
+Pathophysiology
+
+Insulin is a hormone produced by beta cells in the pancreatic islets of Langerhans. It facilitates glucose uptake by cells, particularly in muscle and adipose tissue, and suppresses hepatic glucose production. In diabetes, this process is impaired.
+
+In Type 1 diabetes, autoimmune destruction of beta cells leads to absolute insulin deficiency. In Type 2 diabetes, peripheral tissues become resistant to insulin's effects, and the pancreas gradually loses its ability to produce sufficient insulin to overcome this resistance.
+
+Clinical Presentation
+
+Common symptoms of diabetes include:
+- Polyuria (excessive urination)
+- Polydipsia (excessive thirst)
+- Polyphagia (excessive hunger)
+- Unexplained weight loss
+- Fatigue
+- Blurred vision
+- Slow-healing wounds
+- Recurrent infections
+
+Type 1 diabetes typically presents acutely with severe symptoms, while Type 2 diabetes often develops gradually and may be asymptomatic for years.
+
+Diagnosis
+
+Diabetes is diagnosed based on one of the following criteria:
+1. Fasting plasma glucose ≥126 mg/dL (7.0 mmol/L)
+2. 2-hour plasma glucose ≥200 mg/dL (11.1 mmol/L) during oral glucose tolerance test
+3. HbA1c ≥6.5% (48 mmol/mol)
+4. Random plasma glucose ≥200 mg/dL (11.1 mmol/L) with classic symptoms
+
+Prediabetes is defined as:
+- Fasting glucose 100-125 mg/dL (impaired fasting glucose)
+- 2-hour glucose 140-199 mg/dL (impaired glucose tolerance)
+- HbA1c 5.7-6.4%
+
+Treatment
+
+Type 1 Diabetes Management
+- Insulin therapy (multiple daily injections or insulin pump)
+- Blood glucose monitoring
+- Carbohydrate counting
+- Regular physical activity
+- Patient education
+
+Type 2 Diabetes Management
+First-line therapy typically includes:
+- Lifestyle modifications (diet and exercise)
+- Metformin as initial pharmacotherapy
+- Additional medications as needed (sulfonylureas, DPP-4 inhibitors, GLP-1 agonists, SGLT2 inhibitors, insulin)
+
+Glycemic Targets
+- HbA1c <7% for most adults
+- Preprandial glucose 80-130 mg/dL
+- Postprandial glucose <180 mg/dL
+
+Complications
+
+Acute Complications
+- Diabetic ketoacidosis (DKA) - primarily Type 1
+- Hyperosmolar hyperglycemic state (HHS) - primarily Type 2
+- Hypoglycemia - from treatment
+
+Chronic Complications
+Microvascular:
+- Diabetic retinopathy (leading cause of blindness in adults)
+- Diabetic nephropathy (leading cause of end-stage renal disease)
+- Diabetic neuropathy (peripheral and autonomic)
+
+Macrovascular:
+- Coronary artery disease
+- Cerebrovascular disease
+- Peripheral arterial disease
+
+Prevention
+
+Type 2 diabetes prevention strategies include:
+- Maintaining healthy body weight (BMI 18.5-24.9)
+- Regular physical activity (150 minutes/week moderate-intensity exercise)
+- Healthy diet rich in whole grains, fruits, vegetables
+- Avoiding tobacco use
+- Limiting alcohol consumption
+
+Studies have shown that intensive lifestyle intervention can reduce the risk of developing Type 2 diabetes by 58% in high-risk individuals.
+
+Emerging Therapies
+
+Recent advances in diabetes treatment include:
+- Continuous glucose monitoring (CGM) systems
+- Closed-loop insulin delivery systems (artificial pancreas)
+- Novel medications (GLP-1/GIP dual agonists)
+- Islet cell transplantation
+- Stem cell therapy (experimental)
+
+Conclusion
+
+Diabetes mellitus is a complex chronic disease requiring comprehensive management. Early diagnosis, appropriate treatment, regular monitoring, and patient education are essential for preventing complications and improving quality of life. Ongoing research continues to advance our understanding and treatment of this condition.
+
+References
+- American Diabetes Association. Standards of Medical Care in Diabetes-2024.
+- International Diabetes Federation. IDF Diabetes Atlas, 10th Edition.
+- World Health Organization. Global Report on Diabetes, 2023.
