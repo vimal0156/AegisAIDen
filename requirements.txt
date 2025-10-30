@@ -1,0 +1,28 @@
+# Core Framework
+streamlit>=1.28.0
+
+# LangChain and LLM Providers
+langchain-core>=0.1.0
+langchain-openai>=0.0.5
+langchain-groq>=0.0.1
+langchain-google-genai>=0.0.5
+
+# PyTorch (Required for embeddings - installs without TensorFlow)
+torch>=2.0.0
+torchvision>=0.15.0
+torchaudio>=2.0.0
+
+# Transformers and Embeddings (PyTorch backend only, NO TensorFlow)
+transformers>=4.40.0
+sentence-transformers>=5.0.0
+numpy>=1.24.0
+
+# Document Processing
+PyPDF2>=3.0.0
+
+# Web Search
+requests>=2.31.0
+duckduckgo-search>=4.0.0
+
+# Utilities
+python-dotenv>=1.0.0
