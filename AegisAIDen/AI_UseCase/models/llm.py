@@ -5,7 +5,11 @@ from langchain_openai import ChatOpenAI
 from langchain_groq import ChatGroq
 from langchain_google_genai import ChatGoogleGenerativeAI
 
-sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '../..')))
+# Add parent directory to path for config imports
+parent_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+if parent_dir not in sys.path:
+    sys.path.insert(0, parent_dir)
+
 from config.config import (
     OPENAI_API_KEY, GROQ_API_KEY, GOOGLE_API_KEY, PERPLEXITY_API_KEY,
     DEEPSEEK_API_KEY, OPENROUTER_API_KEY, API_KEY_LINKS,

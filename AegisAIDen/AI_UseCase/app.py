@@ -10,7 +10,11 @@ import streamlit as st
 from pathlib import Path
 from langchain_core.messages import HumanMessage, AIMessage, SystemMessage
 
-sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '../..')))
+# Add current directory to path for imports
+current_dir = os.path.dirname(os.path.abspath(__file__))
+if current_dir not in sys.path:
+    sys.path.insert(0, current_dir)
+
 from models.llm import get_model, get_available_providers, validate_api_key, get_provider_info
 from models.embeddings import get_embedding_model
 from utils.rag_utils import VectorStore, process_document, format_rag_context

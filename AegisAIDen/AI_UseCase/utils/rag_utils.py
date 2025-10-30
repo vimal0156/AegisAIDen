@@ -6,7 +6,11 @@ import numpy as np
 from typing import List, Tuple
 from pathlib import Path
 
-sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '../..')))
+# Add parent directory to path for config imports
+parent_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+if parent_dir not in sys.path:
+    sys.path.insert(0, parent_dir)
+
 from config.config import CHUNK_SIZE, CHUNK_OVERLAP, TOP_K_RESULTS, VECTOR_STORE_PATH
 from models.embeddings import get_embeddings
 

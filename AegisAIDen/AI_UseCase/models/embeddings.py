@@ -9,7 +9,11 @@ os.environ['USE_TF'] = '0'
 from sentence_transformers import SentenceTransformer
 import numpy as np
 
-sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '../..')))
+# Add parent directory to path for config imports
+parent_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+if parent_dir not in sys.path:
+    sys.path.insert(0, parent_dir)
+
 from config.config import EMBEDDING_MODEL, EMBEDDING_DIMENSION
 
 # Global variable to cache the model

@@ -4,7 +4,11 @@ import sys
 import requests
 from typing import List, Dict
 
-sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '../..')))
+# Add parent directory to path for config imports
+parent_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+if parent_dir not in sys.path:
+    sys.path.insert(0, parent_dir)
+
 from config.config import SERPAPI_API_KEY, SERPER_API_KEY, TAVILY_API_KEY
 
 def search_with_serpapi(query: str, num_results: int = 5) -> List[Dict]:
