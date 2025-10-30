@@ -2,10 +2,9 @@
 import os
 import sys
 
-# Disable TensorFlow to avoid conflicts - MUST be before any imports
 os.environ['TRANSFORMERS_NO_TF'] = '1'
 os.environ['USE_TF'] = '0'
-os.environ['TF_CPP_MIN_LOG_LEVEL'] = '3'  # Suppress TensorFlow warnings
+os.environ['TF_CPP_MIN_LOG_LEVEL'] = '3' 
 
 import streamlit as st
 from pathlib import Path
@@ -68,8 +67,7 @@ def get_chat_response(chat_model, messages, system_prompt, use_rag=False, use_we
                     context_parts.append(web_context)
             except Exception as e:
                 st.warning(f"Web search error: {str(e)}")
-        
-        # Build enhanced system prompt with context
+    
         enhanced_prompt = system_prompt
         if context_parts:
             enhanced_prompt += "\n\n" + "\n\n".join(context_parts)
